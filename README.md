@@ -7,7 +7,7 @@ This interactive dashboard was developed to support individuals navigating the d
 
 ## 🔹 Dashboard File
 To access the Power BI dashboard file, use the following link:
-Data_Jobs_Dashboard.pbix
+[Data_Jobs_Dashboard.pbix](https://app.powerbi.com/links/fXXWBP9TEa?ctid=a37c2367-cf18-441f-93e5-85d7db0d493d&pbi_source=linkShare)
 
 ## 🔹 Skills Demonstrated
 This project highlights a range of Power BI techniques and features:
