@@ -38,7 +38,7 @@ Built an intuitive and visually polished layout, incorporating both standard and
 
 
 ## 🔹 Dashboard Overview
-The report is structured into two pages: one for an overall summary and the other for a more detailed breakdown.
+The report is structured into three pages: one for the home and visualization, the second for an overall summary and the other for a more detailed breakdown.
 
 ### 🔹Page 1: Report Navigation
 ![Dashboard Page 1 ](/Assest/image0.png)
