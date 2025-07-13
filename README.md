@@ -41,14 +41,14 @@ Built an intuitive and visually polished layout, incorporating both standard and
 The report is structured into three pages: one for the home and visualization, the second for an overall summary and the other for a more detailed breakdown.
 
 ### 🔹Page 1: Report Navigation
-![Dashboard Page 1 ](/Assest/image0.png)
+![Dashboard Page 1](/Assest/image0.png)
 The buttons below help users seamlessly explore the report:
 
-- HOME – Takes you to the landing page of the dashboard.
+- **HOME** – Takes you to the landing page of the dashboard.
 
-- DATA JOB DASHBOARD – Opens the main summary view with job counts, salary insights, and hiring trends.
+- **DATA JOB DASHBOARD** – Opens the main summary view with job counts, salary insights, and hiring trends.
 
-- Job Title Drill Through – Lets you drill into detailed information for specific roles, including salary ranges, remote options, and top hiring platforms.
+- **Job Title Drill Through** – Lets you drill into detailed information for specific roles, including salary ranges, remote options, and top hiring platforms.
 
 
 
