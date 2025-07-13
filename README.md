@@ -1,15 +1,15 @@
-# DATA JOBS DASHBOARD W/ POWER BI
+# **DATA JOBS DASHBOARD W/ POWER BI**
 ![Dashboard Page 1 ](/Assest/image1.png)
 
 [Explore the interactive version of this dashboard directly on the Power BI Service.](https://app.powerbi.com/links/fXXWBP9TEa?ctid=a37c2367-cf18-441f-93e5-85d7db0d493d&pbi_source=linkShare)
-## 🔹 Introduction
+## 🔹 **Introduction**
 This interactive dashboard was developed to support individuals navigating the data job market—specifically career changers, new job seekers, and those seeking better opportunities. Since data on job openings, salaries, and roles is often fragmented, *this project consolidates relevant information using a real-world dataset of 2024 data science positions*. The goal is to offer a clear and user-friendly platform for exploring salary trends, job availability, and market insights. Feel free to explore the tools.
 
-## 🔹 Dashboard File
+## 🔹 **Dashboard File**
 To access the Power BI dashboard file, use the following link:
 [Data_Jobs_Dashboard.pbix](https://app.powerbi.com/links/fXXWBP9TEa?ctid=a37c2367-cf18-441f-93e5-85d7db0d493d&pbi_source=linkShare)
 
-## 🔹 Skills Demonstrated
+## 🔹 **Skills Demonstrated**
 This project highlights a range of Power BI techniques and features:
 
 - **🔧 ETL with Power Query:**
@@ -37,10 +37,10 @@ Built an intuitive and visually polished layout, incorporating both standard and
 
 
 
-## 🔹 Dashboard Overview
+## 🔹 **Dashboard Overview**
 The report is structured into three pages: one for the home and visualization, the second for an overall summary and the other for a more detailed breakdown.
 
-### 🔹Page 1: Report Navigation
+### 🔹**Page 1: Report Navigation**
 ![Dashboard Page 1](/Assest/image0.png)
 The buttons below help users seamlessly explore the report:
 
@@ -52,15 +52,15 @@ The buttons below help users seamlessly explore the report:
 
 
 
-### 🔹Page 2: Market Summary View
+### 🔹**Page 2: Market Summary View**
 ![Dashboard Page 1 ](/Assest/image1.png)
 This dashboard serves as your central hub for exploring the data job market. It highlights key performance indicators such as total job openings, average salaries, and top job roles, offering a quick snapshot of current trends and market activity.
 
-### 🔹 Page 3: Job Title Drill-Through
+### 🔹 **Page 3: Job Title Drill-Through**
 ![Dashboard Page 1 ](/Assest/image2.png)
 This section allows for a more detailed exploration. Users can navigate from the main dashboard into this view to access job-specific insights—such as salary ranges, remote work availability, popular hiring platforms, and a global visualization of job locations.
 
 
-## 🔹 Conclusion
+## 🔹 **Conclusion**
 This dashboard demonstrates how Power BI can turn raw job posting information into a valuable resource for career planning. It empowers users to interact with the data—filtering, slicing, and drilling down—to make well-informed decisions about their professional journey.
 
