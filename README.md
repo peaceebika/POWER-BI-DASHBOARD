@@ -31,9 +31,9 @@ Integrated cards to highlight key performance indicators and used tables for det
 Built an intuitive and visually polished layout, incorporating both standard and advanced chart types to tell a compelling data story.
 
 - **🔁 Interactive Features:**
-  - Slicers to enable real-time filtering by job title.
-  - Buttons & Bookmarks for smooth, seamless navigation.
-  - Drill-Through functionality to move from overview summaries to detailed job-level insights.
+  - *Slicers* to enable real-time filtering by job title.
+  - *Buttons & Bookmarks* for smooth, seamless navigation.
+  - *Drill-Through functionality* to move from overview summaries to detailed job-level insights.
 
 
 
