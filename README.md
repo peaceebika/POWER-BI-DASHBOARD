@@ -12,28 +12,28 @@ To access the Power BI dashboard file, use the following link:
 ## 🔹 **Skills Demonstrated**
 This project highlights a range of Power BI techniques and features:
 
-- **🔧 ETL with Power Query:**
+* **🔧 ETL with Power Query:**
 The dataset was cleaned and structured by handling missing values, adjusting data types, and generating calculated columns for analysis.
 
-- **📌 Custom Measures:**
+* **📌 Custom Measures:**
 Created meaningful metrics such as median salary and job availability using DAX to extract key insights.
 
-- **📊 Core Visualizations:**
+* **📊 Core Visualizations:**
 Employed column, bar, line, and area charts to showcase job trends, counts, and salary comparisons over time.
 
-- **🌍 Geographic Mapping:**
+* **🌍 Geographic Mapping:**
 Used map charts to visualize the distribution of data science roles across different regions.
 
-- **💡 KPI Indicators & Tables:**
+* **💡 KPI Indicators & Tables:**
 Integrated cards to highlight key performance indicators and used tables for detailed, sortable data exploration.
 
-- **🎨 Dashboard Design:**
+* **🎨 Dashboard Design:**
 Built an intuitive and visually polished layout, incorporating both standard and advanced chart types to tell a compelling data story.
 
-- **🔁 Interactive Features:**
-  - *Slicers* to enable real-time filtering by job title.
-  - *Buttons & Bookmarks* for smooth, seamless navigation.
-  - *Drill-Through functionality* to move from overview summaries to detailed job-level insights.
+* **🔁 Interactive Features:**
+  * *Slicers* to enable real-time filtering by job title.
+  * *Buttons & Bookmarks* for smooth, seamless navigation.
+  * *Drill-Through functionality* to move from overview summaries to detailed job-level insights.
 
 
 
@@ -44,11 +44,11 @@ The report is structured into three pages: one for the home and visualization, t
 ![Dashboard Page 1](/Assest/image0.png)
 The buttons below help users seamlessly explore the report:
 
-- **HOME** – Takes you to the landing page of the dashboard.
+* **HOME** – Takes you to the landing page of the dashboard.
 
-- **DATA JOB DASHBOARD** – Opens the main summary view with job counts, salary insights, and hiring trends.
+* **DATA JOB DASHBOARD** – Opens the main summary view with job counts, salary insights, and hiring trends.
 
-- **Job Title Drill Through** – Lets you drill into detailed information for specific roles, including salary ranges, remote options, and top hiring platforms.
+* **Job Title Drill Through** – Lets you drill into detailed information for specific roles, including salary ranges, remote options, and top hiring platforms.
 
 
 
