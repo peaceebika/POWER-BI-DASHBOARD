@@ -42,7 +42,7 @@ The report is structured into three pages: one for the home and visualization, t
 
 ### 🔹**Page 1: Report Navigation**
 ![Dashboard Page 1](/Assest/image0.png)
-The buttons below help users seamlessly explore the report:
+**The buttons below help users seamlessly explore the report:**
 
 * **HOME** – Takes you to the landing page of the dashboard.
 
