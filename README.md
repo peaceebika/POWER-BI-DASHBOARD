@@ -67,5 +67,5 @@ This section allows for a more detailed exploration. Users can navigate from the
 
 
 ## 🔹 **Conclusion**
-This dashboard demonstrates how Power BI can turn raw job posting information into a valuable resource for career planning. It empowers users to interact with the data— *filtering, slicing, and drilling down* to make well-informed decisions about their professional journey.
+This dashboard demonstrates how Power BI can turn raw job posting information into a valuable resource for career planning. It empowers users to interact with the data — *filtering, slicing, and drilling down* to make well-informed decisions about their professional journey.
 
