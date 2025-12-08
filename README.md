@@ -61,7 +61,7 @@ This dashboard serves as your central hub for exploring the data job market. It 
 This section allows for a more detailed exploration. Users can navigate from the main dashboard into this view to access job-specific insights—such as salary ranges, remote work availability, popular hiring platforms, and a global visualization of job locations.
 
 ## 🔹 **Conclusion**
-This dashboard demonstrates how Power BI can turn raw job posting information into a valuable resource for career planning. It empowers users to interact with the data — *filtering, slicing, and drilling down* to make well-informed decisions about their professional journey. More detailed data job access here 
+This dashboard demonstrates how Power BI can turn raw job posting information into a valuable resource for career planning. It empowers users to interact with the data — *filtering, slicing, and drilling down* to make well-informed decisions about their professional journey. More detailed data job access below here 
 
 [![Data Jobs Dashboard 2.0](/Assest/DataDashboard.png)](https://github.com/peaceemenike/Data-Job-Dashboard)
 [**View the Single Page on Power BI**](https://app.powerbi.com/links/LIn5zs2UfU?ctid=a37c2367-cf18-441f-93e5-85d7db0d493d&pbi_source=linkShare)
