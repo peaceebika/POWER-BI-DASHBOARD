@@ -38,7 +38,7 @@ Built an intuitive and visually polished layout, incorporating both standard and
 
 
 ## 🔹 **Dashboard Overview**
-The report is structured into three pages: one for the home and visualization, the second for an overall summary and the other for a more detailed breakdown.
+The report is structured into three pages: one for the home and visualization, the second for an overall summary and the other for a more detailed breakdown of the project.
 
 ### 🔹**Page 1: Report Navigation**
 ![Dashboard Page 1](/Assest/image0.png)
@@ -60,10 +60,12 @@ This dashboard serves as your central hub for exploring the data job market. It 
 ![Dashboard Page 1 ](/Assest/image2.png)
 This section allows for a more detailed exploration. Users can navigate from the main dashboard into this view to access job-specific insights—such as salary ranges, remote work availability, popular hiring platforms, and a global visualization of job locations.
 
-## 🔹 **Conclusion**
-This dashboard demonstrates how Power BI can turn raw job posting information into a valuable resource for career planning. It empowers users to interact with the data — *filtering, slicing, and drilling down* to make well-informed decisions about their professional journey. More detailed data job access below here 
+## **📊 Data Jobs Dashboard 2.0 (Single-Page Focus)**
 
 [![Data Jobs Dashboard 2.0](/Assest/DataDashboard.png)](https://github.com/peaceemenike/Data-Job-Dashboard)
 [**View the Single Page on Power BI**](https://app.powerbi.com/links/LIn5zs2UfU?ctid=a37c2367-cf18-441f-93e5-85d7db0d493d&pbi_source=linkShare)
 
+
+## 🔹 **Conclusion**
+This dashboard demonstrates how Power BI can turn raw job posting information into a valuable resource for career planning. It empowers users to interact with the data — *filtering, slicing, and drilling down* to make well-informed decisions about their professional journey.
 
